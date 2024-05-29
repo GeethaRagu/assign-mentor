@@ -1,0 +1,2 @@
+# Mentor - Student Assign 
+This API has endpoints to create student and mentor,assign mentor to student,modify mentor for a student , get details of particular mentor and get previously assigned mentor of a student.
